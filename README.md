@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxrcXM3eTVpcG0ycjN0NWpycGUya2Q5ZDVkMXdpZnlzZzd2Y3dzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHA4bG1iYXEycm13bDNscmhrOTlid21rODVhMXh4Y2pjcXp2YWFvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4jZLSxdGOH6ne/giphy.gif" width="500" height="200"/>
 </div>
 
 ## Hi, I'm Zaskia 👋
@@ -45,6 +45,7 @@ I once tried to refactor my life... turns out, that’s not a pull request I can
 ![](https://github-readme-stats.vercel.app/api?username=seiyanz16&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seiyanz16&layout=compact&theme=vision-friendly-dark)
 
+![](https://komarev.com/ghpvc/?username=seiyanz16&style=flat-square&color=blue)
 <!--
 **seiyanz16/seiyanz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
