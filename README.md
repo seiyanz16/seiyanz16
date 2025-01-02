@@ -7,7 +7,7 @@
 Welcome to my GitHub! I'm a web developer who loves making things look good on the Frontend. Currently, I'm dabbling in Backend on my own time—learning Laravel, APIs, and server-side logic because why not? But let’s be real, my heart will always belong to Frontend. (I hope so.)
 
 ## ⚡ Fun fact
-I once tried to refactor my life... turns out, that’s not a pull request I can merge. *sob
+I once tried to refactor my life.. turns out, that’s not a pull request I can merge.
 
 ## 🌱 I’m currently learning
 - Improving **Vue 3** & **React** Hooks
