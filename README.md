@@ -41,7 +41,7 @@ I once tried to refactor my life.. turns out, that’s not a pull request I can 
 </div>
 
 ## 🔥 Stats
-![](https://streak-stats.demolab.com?user=seiyanz16&hide_border=true&theme=vision-friendly-dark) &nbsp;
+![](https://streak-stats.demolab.com?user=seiyanz16&theme=vision-friendly-dark&hide_border=true) &nbsp;
 ![](https://github-readme-stats.vercel.app/api?username=seiyanz16&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seiyanz16&layout=compact&hide_border=true&theme=vision-friendly-dark)
 
