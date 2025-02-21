@@ -39,9 +39,9 @@ Welcome to my GitHub! I'm a web developer who loves making things look good on t
 </div>
 
 ## 🔥 Stats
-![](https://streak-stats.demolab.com?user=seiyanz16&theme=vision-friendly-dark&hide_border=true) &nbsp;
-![](https://github-readme-stats.vercel.app/api?username=seiyanz16&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seiyanz16&layout=compact&hide_border=true&theme=vision-friendly-dark)
+![seiyanz16's Stats](https://github-readme-stats.vercel.app/api?username=seiyanz16&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) &nbsp;
+![seiyanz16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=seiyanz16&theme=vue-dark&hide_border=true) <br/>
+![seiyanz16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seiyanz16&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=seiyanz16&style=flat-square&color=blue)
 <!--
